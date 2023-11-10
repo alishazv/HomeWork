@@ -27,8 +27,8 @@ class EmployeeTest {
         employee1.salary = 8000.00;
         employee1.salaryIncrease();
 
-        Employee employee2 = new Employee(58, "Бабкина", 79,5683.22,"policeman");
-        employee2.salary = 5683.22;
+        Employee employee2 = new Employee(58, "Бабкина", 79,5683.23,"policeman");
+        employee2.salary = 5683.23;
         employee2.salaryIncrease();
 
         System.out.println(employee1.salary);
