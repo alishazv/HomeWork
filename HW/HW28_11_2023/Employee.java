@@ -40,6 +40,7 @@ public class Employee {
 }
 
 class EmployeeTest {
+
     public static void main(String[] args) {
         Employee employee1 = new Employee(11, "Алиев", 38, 8000, "post");
 
