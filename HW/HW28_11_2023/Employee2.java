@@ -1,6 +1,7 @@
 package HW28_11_2023;
 
 public class Employee2 {
+
     public static void main(String[] args) {
 
 
