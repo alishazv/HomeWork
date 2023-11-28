@@ -4,7 +4,6 @@ public class Employee2 {
 
     public static void main(String[] args) {
 
-
         Employee employee1 = new Employee(58, "Бабкина", 79, 5683.23, "policeman");
 
         System.out.println(employee1.id);
